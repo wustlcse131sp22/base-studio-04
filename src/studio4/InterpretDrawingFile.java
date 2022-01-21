@@ -12,6 +12,7 @@ import support.cse131.ArgsProcessor;
  */
 public class InterpretDrawingFile {
 	public static void readFileViaArgsProcessorAndDraw(ArgsProcessor ap) {
+		// TODO: Write studio code here
 		
 	}
 
